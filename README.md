@@ -1,6 +1,6 @@
 ## About
 
-This repo is a containerized installation of laravel, distributed for a testing workshop.
+A containerized installation of laravel, distributed for a testing workshop.
 
 ## Dependencies
 
